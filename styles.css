@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
-div{
+.cards{
 	display:flex;
 	flex-direction: row;
 	flex-wrap: wrap;
 }
-div img{
+.cards img{
 	max-width: 25vw;
 	margin: 10px;
 	border: 3px solid #000;
